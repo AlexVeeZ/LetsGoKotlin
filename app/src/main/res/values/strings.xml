@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LetsGoKotlin</string>
+    <string name="data_class">Data Class</string>
+    <string name="copy_object">Copy Object</string>
+    <string name="example_data_class">Example Data Class</string>
+    <string name="example_copy_object">Example Copy Object</string>
 </resources>
